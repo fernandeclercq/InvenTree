@@ -116,3 +116,7 @@ InvenTree/web/static
 docs/schema.yml
 docs/docs/api/*.yml
 docs/docs/api/schema/*.yml
+
+
+# environment files
+docker.dev.env
